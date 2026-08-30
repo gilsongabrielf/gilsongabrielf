@@ -11,5 +11,5 @@
 [![Outros Conhecimentos](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="23px" align="top" /> Focando Neste Momento:</div>
-[![Focando Agora](https://skillicons.dev/icons?i=java,IA)](https://skillicons.dev)
+[![Focando Agora](https://skillicons.dev/icons?i=java,agents)](https://skillicons.dev)
 
