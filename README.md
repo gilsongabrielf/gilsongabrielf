@@ -4,8 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-gabriel-3bba263a7?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 
-![Joanats GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joanats&show_icons=true&theme=dracula)
-
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="23px" align="top" alt="Rocket Emoji"/> Principais Skills:</div>
 [![Principal Skills](https://skillicons.dev/icons?i=py,mysql,r)](https://skillicons.dev)
 
