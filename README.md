@@ -1,7 +1,7 @@
 ### Hey you there 👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/joana_trindad/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilsongabrieldata)
+)](https://www.instagram.com/gilsongabrielf?igsi=MWE1OGJjbHRhODZndg%3D%3D&utm_source=qr)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-gabriel-3bba263a7?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 
 ![Joanats GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joanats&show_icons=true&theme=dracula)
