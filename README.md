@@ -1,4 +1,6 @@
-### Hey you there 👋
+### Olá, sou o Gilson Gabriel 👋
+
+Desenvolvedor de Software focado na criação de soluções eficientes, APIs robustas e aplicações web modernas.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/gilsongabrielf?igsi=MWE1OGJjbHRhODZndg%3D%3D&utm_source=qr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-gabriel-3bba263a7?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
