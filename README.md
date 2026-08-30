@@ -8,7 +8,7 @@
 [![Principal Skills](https://skillicons.dev/icons?i=py,mysql,r)](https://skillicons.dev)
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="23px" align="top" /> Outros Conhecimentos:</div>
-[![Outros Conhecimentos](https://skillicons.dev/icons?i=blender,postgres,html,css,js)](https://skillicons.dev)
+[![Outros Conhecimentos](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="23px" align="top" /> Focando Neste Momento:</div>
 [![Focando Agora](https://skillicons.dev/icons?i=py,mysql,r)](https://skillicons.dev)
